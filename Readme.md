@@ -1,7 +1,7 @@
 Stable Diffusion Image Generation
 ======================================================
 
-A simple that generates images from text prompts using stable diffusion. The main goal of this project is to explore stable diffusion techniques for image generation and provide a user-friendly interface for generating images by providing a text prompt. This API is lightweight, easy to use, and can be a great starting point for learning about text-to-image generation 
+A simple API that generates images from text prompts using stable diffusion. The main goal of this project is to explore stable diffusion techniques for image generation and provide a user-friendly interface for generating images by providing a text prompt. This API is lightweight, easy to use, and can be a great starting point for learning about text-to-image generation 
 
 Table of Contents
 -----------------
