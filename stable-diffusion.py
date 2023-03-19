@@ -1,8 +1,9 @@
+# Description: This script demonstrates how to use the StableDiffusionPipeline to generate images from text prompts.
+# It is a simplified version of the app.py script, which is used to run the web app.
+
 from diffusers import StableDiffusionPipeline, DPMSolverMultistepScheduler
 import torch
 import random
-
-# print(torch.cuda.is_available())
 
 model_id = "stabilityai/stable-diffusion-2-1"
 pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16)
