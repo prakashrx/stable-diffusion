@@ -32,7 +32,7 @@ http://localhost:5000/generate?prompt=Beautiful%20sunset%20over%20the%20ocean
 
 This will return a generated image of a beautiful sunset over the ocean.
 
-![Screenshot](https://github.com/prakashrx/stable-diffusion/blob/main/screenshot.jpg?raw=true)
+![Screenshot](https://raw.githubusercontent.com/prakashrx/stable-diffusion/main/images/screenshot.jpg)
 
 Installation
 ------------
